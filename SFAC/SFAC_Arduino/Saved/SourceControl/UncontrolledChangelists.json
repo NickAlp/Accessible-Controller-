@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/SerialCOM/Resources/Icon128.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/BP_SerialCom_v4_UE510.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/Blueprnts/InGame/BP_SerialCom_v4_UE510.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/Blueprnts/Copies/CopyBP_ThirdPersonCharacter.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/Blueprnts/Copies/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/Blueprnts/Copies/BP_SerialCom_v4_UE510.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/96/QEGX5KX2E5CD5YWTEPYHVS.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9U/EFIKIEOIK5QZS1MAE47MNC.uasset",
+				"C:/Users/12089/Documents/BSU/Unreal Files/SFAC/SFAC_Arduino/Content/Blueprnts/BP_SerialCom_v4_UE510.uasset"
+			]
+		}
+	]
+}
